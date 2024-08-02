@@ -3,7 +3,7 @@
 
 #What Does Shebang Mean in Bash? In Bash, the term "shebang" refers to the #first line of a Bash script that specifies which interpreter will be used when #executing the script. The shebang line allows users to leverage the power of #different interpreters or customize the script execution behavior
 
-echo 'hi there'
+echo 'hi there this from shell script'
 # hard coded values to the variables.
 VARIABLE1=hi
 VARIABLE2=there
